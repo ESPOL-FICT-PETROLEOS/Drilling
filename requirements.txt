@@ -4,4 +4,4 @@ plotly-express==0.4.1
 streamlit==1.40.2
 streamlit-option-menu==0.4.0
 pillow==11.0.0
-protobuf==3.20
+protobuf==3.20.*
